@@ -94,5 +94,6 @@ This project is licensed under the ISC License.
 
 TypeScript is like a safety net for JavaScript… but for testers, it's also a **superpower** 💪. Let’s make your tests type-safe and bulletproof!
 
-Happy coding!  
-Created with 💙 by pwts.dev / @bkita
+Happy coding! 
+
+Created with 💙 by [<pwts.dev>](https://pwts.dev) / [@bkita](https://github.com/bkita)
